@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+    <head>
+        <h1><b>Kirinyaga University</b></h2><br>
+            <h2>Student Form</h2><br>
+    </head>
+    <body>
+        <form>
+            <label for="fname">Full Name</label><br>
+            <input type="text" id="fname" name="text"/><br>
+            <label for="adimission">Student Adimission</label><br>
+            <input type="text" id="adimission" name="text"/>
+            <input type="button" value="submit"/>
+        </form>
+    </body>
+</html>
